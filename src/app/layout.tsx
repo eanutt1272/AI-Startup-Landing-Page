@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "AI Startup Landing Page",
-  description: "A landing page for an AI startup built with Next.js",
+  description: "A landing page for a dummy AI startup built with Next.js",
 };
 
 export default function RootLayout({
