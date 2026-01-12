@@ -1,2 +1,10 @@
-node_modules
-.next
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# IDEs and OS files
+.DS_Store
+*.local
