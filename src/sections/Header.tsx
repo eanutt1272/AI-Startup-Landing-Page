@@ -16,6 +16,7 @@ export const Header = () => {
               <div className="absolute inset-0 ">
                 <div className="border border-white/20 absolute inset-0 [mask-image:linear-gradient(to_bottom,black,transparent)] rounded-lg"></div>
                 <div className="border absolute inset-0 border-white/40 [mask-image:linear-gradient(to_top,black,transparent)] rounded-lg"></div>
+                <div className="absolute inset-0 shadow-[0_0_10px_rgb(140,69,255,.7)_inset] rounded-lg"></div>
               </div>
               <span>Join waitlist</span>
             </button>
